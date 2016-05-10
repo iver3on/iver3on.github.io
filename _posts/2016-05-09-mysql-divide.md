@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "mysql分区和分表的区别和联系"
+title:  "Mysql分区和分表的区别和联系"
 date:   2016-05-09 11:06:05
 categories: mysql
 tags: mysql table linux ds
