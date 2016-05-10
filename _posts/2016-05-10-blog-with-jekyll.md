@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Jekyll搭建的我的第一篇博客"
+title:  "使用Jekyll搭建的我的github博客"
 date:   2016-05-08 21:15:54
 categories: jekyll
-tags: jekyll wordpress summary hosts ds
+tags: jekyll wordpress summary
 ---
 
 * content
