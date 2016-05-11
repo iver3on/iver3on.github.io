@@ -32,4 +32,5 @@ Regenerating: 1 file(s) changed at 2016-05-05 16:14:31 Liquid Exception:divided 
 由于jekyll 3（github目前的jekyll版本）默认对于认定为"未来"的post，是不生成的，详情可以参考Future posts - Jekyll。我把所有文件改成5.9号就可以了。
 具体问题好像在feed.xml里面，具体没有研究。。真是蛋疼。
 结束。我的博客地址是：[iver3on的博客](http://www.zhangwenbo.net),欢迎大家访问。
+branch Test
 
