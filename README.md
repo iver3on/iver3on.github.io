@@ -3,7 +3,7 @@
 后续会上传在搭建过程中遇到的一些问题。
 
 ### 遇到的问题
-#### 先是通过ruby下载jekyll的资源库问题，老是出现ssl错误。
+1. 先是通过ruby下载jekyll的资源库问题，老是出现ssl错误。
 ![资源](https://raw.githubusercontent.com/iver3on/blogPic/master/QQ%E6%88%AA%E5%9B%BE20160509195427.jpg)
 
 上网查找国内的资源仓库，发现都不好使用。于是加了rubyQQ群了解，得到了阿里云的库。
@@ -15,7 +15,7 @@ RubyGems简称gems，是一个用于对 Ruby组件进行打包的 Ruby 打包系
 
 Ubuntu下的apt-get。使用它可以方便第从远程服务器下载并安装Rails。
 
-#### 使用jekyll s启动jekyll服务去测试的时候出错:
+2. 使用jekyll s启动jekyll服务去测试的时候出错:
 
 ![x](https://raw.githubusercontent.com/iver3on/blogPic/master/QQ%E6%88%AA%E5%9B%BE20160509194043.jpg)
 
@@ -23,7 +23,7 @@ Ubuntu下的apt-get。使用它可以方便第从远程服务器下载并安装R
 
 ![y](https://raw.githubusercontent.com/iver3on/blogPic/master/QQ%E6%88%AA%E5%9B%BE20160509195401.jpg)
 
-#### 最蛋疼的一个问题
+3. 最蛋疼的一个问题
 一切修改部署完后，在本地进行写文章发布的时候，老是出现:
 Regenerating: 1 file(s) changed at 2016-05-05 16:14:31 Liquid Exception:divided by 0 in index.html 
 一直无法解决，后来issues中有人遇到同样的问题，是_posts提交文章目录下的文章数目小于3会出现的。
