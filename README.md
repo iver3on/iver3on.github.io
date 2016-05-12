@@ -3,6 +3,7 @@
 后续会上传在搭建过程中遇到的一些问题。
 
 ### 遇到的问题
+
 1. 先是通过ruby下载jekyll的资源库问题，老是出现ssl错误。
 ![资源](https://raw.githubusercontent.com/iver3on/blogPic/master/QQ%E6%88%AA%E5%9B%BE20160509195427.jpg)
 
