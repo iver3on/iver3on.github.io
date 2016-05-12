@@ -1,4 +1,4 @@
-## fork浩阳师兄的主题
+## fork自Gaohaoyang(https://github.com/Gaohaoyang/gaohaoyang.github.io)
 
 后续会上传在搭建过程中遇到的一些问题。
 
