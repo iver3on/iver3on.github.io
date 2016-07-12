@@ -8,6 +8,7 @@ icon: bookmark
 * content
 {:toc}
 
+>主题作者的收藏，直接拿过来了。后续会添加自己的收藏。
 ## 前端工具
 
 * [box-shadow generator](http://www.cssmatic.com/box-shadow)
