@@ -37,7 +37,7 @@
   
   具体问题好像在feed.xml里面，具体没有研究。。真是蛋疼。 
   
-  结束。我的博客地址是：[iver3on的博客](http://www.zhangwenbo.net),欢迎大家访问。 
+  结束。我的博客地址是：[iver3on的博客](http://www.zhangwenbo.tech),欢迎大家访问。 
   
   branch Test
 
